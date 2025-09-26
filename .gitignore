@@ -2,3 +2,7 @@
 *.out
 *.prof
 *.test
+/dist
+/tests
+mise.toml
+.goreleaser.yml
